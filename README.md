@@ -1,1 +1,1 @@
-# email-starterkit
+# email-starter-kit
