@@ -1,1 +1,1 @@
-# newsletter-starter-kit
+# email-starter-kit
